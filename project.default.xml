@@ -1,12 +1,49 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="7.5" />
+            <entry key="location-0" value="CLASSPATH:/sun_checks.xml:The default Checkstyle rules" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+            <entry key="thirdparty-classpath" value="" />
+          </map>
+        </option>
+      </component>
       <component name="CompilerConfiguration">
         <annotationProcessing>
           <profile default="true" name="Default" enabled="true" />
         </annotationProcessing>
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="EclipseCodeFormatter">
+        <option name="defaultSettings" value="true" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1486543741125" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Documents/Project/personal-messaging/publish-sns/yayoi-env/formatter/yayoi.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/Project/personal-messaging/publish-sns/yayoi-env/formatter/eclipse-java-yayoi-style.xml" />
+        <option name="selectedJavaProfile" value="YayoiStyle" />
       </component>
       <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Desktop/testPersonalMessagePublishSns" value="1488838968000" />
+            <entry key="$USER_HOME$/Documents/Project/Izumo/master-izumo" value="2979280366314" />
+            <entry key="$USER_HOME$/Documents/Project/Messaging/master-messaging" value="2972215751011" />
+            <entry key="$USER_HOME$/Documents/Project/MyAccount/master-account" value="2979784333116" />
+            <entry key="$USER_HOME$/Documents/Project/MyPortal/master-myportal" value="2986345246154" />
+            <entry key="$USER_HOME$/Documents/Project/MyPortal/master-myportal/master-myportal" value="2972910523090" />
+            <entry key="$USER_HOME$/Documents/Project/blank/master-blank" value="2973055223036" />
+            <entry key="$USER_HOME$/Documents/Project/blank/master-blank-api" value="2974797749524" />
+            <entry key="$USER_HOME$/Documents/Project/blank/master-blank-web" value="2974784693750" />
+            <entry key="$USER_HOME$/Documents/Project/personal-messaging/publish-sns" value="2976190939706" />
+            <entry key="$USER_HOME$/vagrant/MyPortal/master-myportal/master-myportal" value="2972910523090" />
+          </map>
+        </option>
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
@@ -14,37 +51,57 @@
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
-          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
         </profile>
         <version value="1.0" />
       </component>
-      <component name="JsBowerSettings">
-        <node-interpreter value="project" />
-        <exe-path />
-        <config-path />
+      <component name="ProjectDictionaryState">
+        <dictionary name="ryohei_ohashi" />
       </component>
-      <component name="JsFlowSettings">
-        <service-enabled>false</service-enabled>
-        <exe-path />
-        <annotation-enable>false</annotation-enable>
-        <other-services-enabled>false</other-services-enabled>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+              </State>
+              <State>
+                <id>Android Lint for Kotlin</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Properties Files</id>
+              </State>
+              <State>
+                <id>コード スタイル問題Java</id>
+              </State>
+              <State>
+                <id>一般</id>
+              </State>
+              <State>
+                <id>国際化問題Java</id>
+              </State>
+              <State>
+                <id>推定されるバグJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
       </component>
+      <component name="ProjectRootManager" version="2" default="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-        <property name="node.js.path.for.package.eslint" value="project" />
-        <property name="node.js.selected.package.eslint" value="" />
-        <property name="node.js.path.for.package.standard" value="project" />
-        <property name="node.js.selected.package.standard" value="" />
-        <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
-        <property name="javascript.nodejs.core.library.configured.version" value="6.10.3" />
-        <property name="node.js.path.for.package.tslint" value="project" />
-        <property name="node.js.selected.package.tslint" value="" />
-        <property name="node.js.path.for.package.jscs" value="project" />
-        <property name="node.js.selected.package.jscs" value="" />
-        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+        <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Documents/svn project/MyAccount" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -135,7 +192,7 @@
         </configuration>
       </component>
       <component name="SvnConfiguration">
-        <configuration>C:\Users\d3141\AppData\Roaming\Subversion</configuration>
+        <configuration>C:\Users\ryohei_ohashi\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
@@ -155,6 +212,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -170,7 +228,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.19639935" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>
