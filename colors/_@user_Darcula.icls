@@ -1,0 +1,32 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-02-08T16:47:04</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2016.3.4.0.0</property>
+    <property name="modified">2017-05-11T18:55:08</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="50479f" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="91358c" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="804c50" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
