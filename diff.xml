@@ -1,24 +1,11 @@
 <application>
+  <component name="DiffManager">
+    <filesTool value="C:\Program Files (x86)\WinMerge\WinMergeU.exe" newValue="C:\Program Files (x86)\WinMerge\WinMergeU.exe" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
-    </option>
-  </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Default">
         <PlaceSettings />
       </entry>
     </option>
